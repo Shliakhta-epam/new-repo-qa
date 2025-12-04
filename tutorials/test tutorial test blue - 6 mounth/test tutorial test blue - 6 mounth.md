@@ -1,5 +1,5 @@
 ---
-title: How to test developers - by Ana Shliakhta test blue migarted tutorial from dev0 to dev1
+title: test tutorial test blue - 6 mounth
 description: Test Description text -> Learn about the multiple ways to install the SAP HANA client.
 parser: v2
 auto_validation: true
