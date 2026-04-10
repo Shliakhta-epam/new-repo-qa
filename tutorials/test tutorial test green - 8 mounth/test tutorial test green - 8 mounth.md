@@ -1,5 +1,5 @@
 ---
-title: test tutorial test blue - 10 mounth
+title: test tutorial test green - 8 mounth
 description: Test Description text -> Learn about the multiple ways to install the SAP HANA client.
 parser: v2
 auto_validation: true
